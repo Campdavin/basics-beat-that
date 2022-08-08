@@ -150,7 +150,7 @@ var main = function (input) {
     console.log (`players' score compared`);
     restartGame();
   
-    return `<b> ${outputValue} <b> <br> <br> The current score is <br> Player 1:${player1Win} <br> Player2:${player2Win} <br> Click submit to  play again!`;
+    return `<b> ${outputValue} <b> <br> <br> The current score is <br> Player 1:${player1Win} <br> Player 2:${player2Win} <br> Click submit to  play again!`;
 
   }
 };
